@@ -702,7 +702,13 @@ label.error {
   line-height: 24px;
 }
 
+.foot-ch {
+  position: relative;
+  float: right;
+}
+
 .footer-single ul {
+
   }
 
 .footer-single li {
